@@ -1,0 +1,264 @@
+﻿nome,tipo,codigo_barras,unidade_venda,marca,grupo,controla_estoque,estoque_atual,controla_validade,validade_mais_antiga,n_lotes_mesclados,observacoes
+Lâmina de Tosa Tamanho 10,Produto,,UN,,Acessórios,Sim,1,Não,,1,
+Lâmina de Tosa Tamanho 40,Produto,,UN,,Acessórios,Sim,3,Não,,1,
+Máquina de Tosa,Produto,,UN,,Acessórios,Sim,1,Não,,1,
+Avental Cirúrgico,Produto,,UN,,Cirurgias,Sim,1,Não,,1,
+Bupivacaína,Produto,,FR,,Cirurgias,Sim,18,Sim,01/11/25,2,aberto | vencido
+Compressa Campo Operatório,Produto,,PCT,,Cirurgias,Sim,8,Não,,2,pacote fechado | pacotes fechados
+Compressa de Gaze,Produto,,PCT,,Cirurgias,Sim,7,Não,,1,"possível duplicata de 'Compressa de Gaze Não Estéril', confirmar se é o mesmo item"
+Compressa de Gaze Estéril,Produto,,PCT,,Cirurgias,Sim,31,Sim,01/02/26,1,vencido
+Compressa de Gaze Não Estéril,Produto,,PCT,,Cirurgias,Sim,1,Não,,1,saco aberto
+Fio de Nylon 0,Produto,,UN,,Cirurgias,Sim,256,Sim,01/07/29,3,"Unificado com o lote em caixa (assumido padrão de 24 unidades/caixa, com base nas caixas fechadas detalhadas no levantamento original)"
+Fio de Nylon 1,Produto,,UN,,Cirurgias,Sim,108,Não,,4,"Unificado com o lote em caixa (assumido padrão de 24 unidades/caixa, com base nas caixas fechadas detalhadas no levantamento original)"
+Fio de Nylon 2,Produto,,UN,,Cirurgias,Sim,185,Sim,01/07/29,4,"Unificado com o lote em caixa (assumido padrão de 24 unidades/caixa, com base nas caixas fechadas detalhadas no levantamento original)"
+Fio de Nylon 3,Produto,,UN,,Cirurgias,Sim,51,Não,,2,"Unificado com o lote em caixa (assumido padrão de 24 unidades/caixa, com base nas caixas fechadas detalhadas no levantamento original)"
+Fio de Nylon 4 (avulso),Produto,,UN,,Cirurgias,Sim,3,Não,,1,
+Fio de Nylon 5 (avulso),Produto,,UN,,Cirurgias,Sim,1,Não,,1,
+Isoflurano,Produto,,FR,,Cirurgias,Sim,1,Sim,01/09/27,1,
+Kit de Cateter Venoso Central,Produto,,KIT,,Cirurgias,Sim,6,Não,,1,
+Kit de Tesouras,Produto,,KIT,,Cirurgias,Sim,16,Não,,1,
+Lidocaína Injetável,Produto,,FR,,Cirurgias,Sim,1,Sim,01/12/27,1,aberta
+Lidocaína Spray,Produto,,FR,,Cirurgias,Sim,1,Sim,01/03/25,1,
+"Luva Cirúrgica Esterilizada Tamanho 6,5",Produto,,UN,,Cirurgias,Sim,1,Sim,01/04/25,1,vencida
+Luva Cirúrgica Esterilizada Tamanho 7,Produto,,UN,,Cirurgias,Sim,38,Sim,01/08/30,2,
+"Luva Cirúrgica Latex Tamanho 7,0",Produto,,CX,,Cirurgias,Sim,8,Não,,1,50 pares por caixa
+Luva Latex Tamanho M,Produto,,CX,,Cirurgias,Sim,2,Não,,1,50 pares por caixa
+Lâmina de Bisturi (genérica),Produto,,UN,,Cirurgias,Sim,1,Sim,01/03/30,1,
+Lâmina de Bisturi N°23,Produto,,CX,,Cirurgias,Sim,1,Não,,1,caixa aberta; SKU distinto de 'Lâmina de Bisturi (genérica)'
+Maleato de Acepromazina,Produto,,FR,,Cirurgias,Sim,1,Sim,01/01/25,1,
+Pinça,Produto,,UN,,Cirurgias,Sim,1,Não,,1,
+Pinça Hemostática,Produto,,UN,,Cirurgias,Sim,2,Não,,1,
+Propofol 10mg/mL,Produto,,FR,,Cirurgias,Sim,7,Sim,01/02/27,3,confirmado pelo usuário: ambos os lotes são de 10mg/mL
+"Punch para Biópsia 6,0mm",Produto,,UN,,Cirurgias,Sim,4,Não,,1,
+Quetamina,Produto,,FR,,Cirurgias,Sim,1,Sim,01/10/27,1,aberto
+Tesoura Cabo Vermelho,Produto,,UN,,Cirurgias,Sim,1,Não,,1,
+Tesoura Hemostática,Produto,,UN,,Cirurgias,Sim,3,Não,,1,
+Tesoura de Tirar Ponto,Produto,,UN,,Cirurgias,Sim,5,Não,,3,
+Xilazina,Produto,,FR,,Cirurgias,Sim,1,Sim,01/11/27,1,aberto
+Cone (colar elizabetano),Produto,,UN,,Consultas,Sim,1,Não,,1,
+Cortador de Unha,Produto,,UN,,Consultas,Sim,1,Não,,1,
+Focinheira (tamanhos diversos),Produto,,UN,,Consultas,Sim,12,Não,,1,
+Removedor de Cerúmen,Produto,,UN,,Consultas,Sim,1,Não,,1,corrigido de 'serumen'
+Termômetro,Produto,,UN,,Consultas,Sim,1,Não,,1,
+Abaxis Kidney Profile Plus,Produto,,UN,,Exames,Sim,17,Não,,1,
+Coletor de Fezes,Produto,,UN,,Exames,Sim,38,Não,,2,
+Coletor de Urina,Produto,,UN,,Exames,Sim,2,Não,,1,
+Gel de Ultrassom 100g,Produto,,UN,,Exames,Sim,1,Não,,1,
+Gel para Ultrassom (galão),Produto,,GL,,Exames,Sim,1,Sim,01/01/24,1,"vencido, mês não informado; aberto; SKU distinto do Gel de Ultrassom 100g"
+Haste Flexível para Amostras,Produto,,UN,,Exames,Sim,56,Não,,1,
+Lâmina de Microscópio,Produto,,UN,,Exames,Sim,12,Não,,1,
+Pipeta de 1ml,Produto,,UN,,Exames,Sim,92,Não,,1,"original grafado 'Pepita', corrigido para Pipeta - confirmar"
+Pipeta de 3ml,Produto,,UN,,Exames,Sim,87,Não,,1,"original grafado 'Pepita', corrigido para Pipeta - confirmar"
+Pote Coletor com Formol 10%,Produto,,UN,,Exames,Sim,3,Não,,1,
+Teste Rápido Dirofilariose (Ouro Fino),Produto,,CX,,Exames,Sim,1,Sim,01/08/24,1,vencidos; caixa fechada
+"Tubo de Coleta de Sangue 0,5ml (cinza)",Produto,,UN,,Exames,Sim,40,Não,,2,
+"Tubo de Coleta de Sangue 0,5ml (roxo c/ gel)",Produto,,UN,,Exames,Sim,3,Não,,1,
+"Tubo de Coleta de Sangue 0,5ml (roxo)",Produto,,UN,,Exames,Sim,1,Não,,1,
+"Tubo de Coleta de Sangue 1,8ml (azul)",Produto,,UN,,Exames,Sim,9,Não,,2,
+"Tubo de Coleta de Sangue 2,5ml (vermelho c/ gel)",Produto,,UN,,Exames,Sim,24,Não,,1,
+"Tubo de Coleta de Sangue 2,5ml (vermelho)",Produto,,UN,,Exames,Sim,14,Não,,1,
+Tubo de Coleta de Sangue 2ml (azul),Produto,,UN,,Exames,Sim,1,Não,,1,
+Tubo de Coleta de Sangue 2ml (cinza),Produto,,UN,,Exames,Sim,3,Não,,1,
+Tubo de Coleta de Sangue 2ml (roxo),Produto,,UN,,Exames,Sim,59,Não,,2,
+"Tubo de Coleta de Sangue 3,5ml (amarelo c/ gel)",Produto,,UN,,Exames,Sim,3,Não,,1,
+"Tubo de Coleta de Sangue 3,5ml (vermelho c/ gel)",Produto,,UN,,Exames,Sim,6,Não,,1,
+Tubo de Coleta de Sangue 3ml (amarelo c/ gel),Produto,,UN,,Exames,Sim,6,Não,,1,
+Tubo de Coleta de Sangue 3ml (branco),Produto,,UN,,Exames,Sim,2,Não,,1,
+Tubo de Coleta de Sangue 4ml (cinza),Produto,,UN,,Exames,Sim,3,Não,,1,
+Tubo de Coleta de Sangue 4ml (verde),Produto,,UN,,Exames,Sim,4,Não,,2,
+Acetilcisteína,Produto,,AMP,,Internamento,Sim,13,Sim,01/09/27,2,ampolas de 3mL
+Agemox,Produto,,FR,,Internamento,Sim,3,Sim,01/07/27,2,aberto
+Alantol,Produto,,UN,,Internamento,Sim,1,Sim,01/04/26,1,vencida
+Algodão Impermeável,Produto,,PCT,,Internamento,Sim,1,Não,,1,
+Aliv,Produto,,FR,,Internamento,Sim,2,Sim,01/12/24,2,aberto | fechado; vencido
+Amoxicilina com Clavulanato 500mg,Produto,,FR,,Internamento,Sim,8,Sim,01/12/25,1,vencidos
+Artrotabs,Produto,,UN,,Internamento,Sim,2,Sim,01/02/26,1,vencida
+Atadura,Produto,,RL,,Internamento,Sim,1,Não,,1,
+Atadura de Algodão,Produto,,UN,,Internamento,Sim,17,Não,,1,
+Atadura de Crepe (azul),Produto,,UN,,Internamento,Sim,12,Não,,1,
+Atadura de Crepe (verde),Produto,,UN,,Internamento,Sim,30,Não,,1,
+Atadura de Crepe (vermelha),Produto,,UN,,Internamento,Sim,38,Não,,1,
+Atadura de Crepom,Produto,,UN,,Internamento,Sim,4,Não,,1,cor não especificada
+Avental Descartável,Produto,,UN,,Internamento,Sim,10,Não,,1,
+Bandagem Flex Azul,Produto,,UN,,Internamento,Sim,5,Não,,1,
+Bandagem Flex Preta,Produto,,UN,,Internamento,Sim,1,Não,,1,
+Buscofin,Produto,,FR,,Internamento,Sim,2,Sim,01/04/27,2,CONFLITO DE UNIDADE com o Buscofin em frasco (linha 32) - revisar antes de somar
+Ceftriaxona,Produto,,FR,,Internamento,Sim,2,Sim,01/08/27,1,
+Cimetidina,Produto,,AMP,,Internamento,Sim,36,Sim,01/02/26,1,vencido
+Citrato de Maropitant,Produto,,FR,,Internamento,Sim,1,Sim,01/12/27,1,
+Clorexidina 2% 1L,Produto,,FR,,Internamento,Sim,2,Sim,01/07/27,2,confirmado pelo usuário: ambos os lotes são de 1L
+Cloridrato de Dobutamina 20ml,Produto,,AMP,,Internamento,Sim,3,Sim,01/10/26,1,
+Cloridrato de Midazolam,Produto,,AMP,,Internamento,Sim,50,Sim,01/09/26,2,
+Cloridrato de Prometazina,Produto,,AMP,,Internamento,Sim,3,Sim,01/09/26,1,
+Cloridrato de Remifentanila,Produto,,AMP,,Internamento,Sim,5,Sim,01/05/27,1,
+Cobertura para Óbito,Produto,,UN,,Internamento,Sim,1,Não,,1,
+Condeoplex,Produto,,UN,,Internamento,Sim,1,Sim,01/11/25,1,vencida
+Crema A,Produto,,UN,,Internamento,Sim,1,Sim,01/01/25,1,"vencida; LINHA 71 CORROMPIDA NO ORIGINAL — trecho '...vencida em out/2025) - 1 unidade' sem nome de produto associado, não incluído, revisar manualmente"
+Curativo Adesivo,Produto,,UN,,Internamento,Sim,500,Não,,1,
+Curativo Bandpet,Produto,,UN,,Internamento,Sim,3,Não,,1,
+Curativo Hidrocoloide,Produto,,UN,,Internamento,Sim,5,Sim,01/07/24,1,vencido
+Dexaflan,Produto,,UN,,Internamento,Sim,2,Sim,01/11/27,1,1 fechada + 1 aberta
+Dexametasona,Produto,,CX,,Internamento,Sim,1,Sim,01/11/27,1,
+Diazepam,Produto,,AMP,,Internamento,Sim,3,Sim,01/11/25,2,1 fechada + 1 aberta | vencida
+Dipirona,Produto,,FR,,Internamento,Sim,5,Sim,01/10/27,2,aberto
+Doxiciclina,Produto,,FR,,Internamento,Sim,1,Sim,01/02/27,1,
+Emedron,Produto,,FR,,Internamento,Sim,3,Sim,01/09/26,3,
+Epinefrina 1ml,Produto,,AMP,,Internamento,Sim,31,Sim,01/09/23,3,vencida | vencido
+Epinefrina 4ml,Produto,,AMP,,Internamento,Sim,1,Sim,01/12/26,1,SKU distinto (4ml) da Epinefrina 1ml
+Esparadrapo,Produto,,RL,,Internamento,Sim,11,Não,,2,
+Esparadrapo Impermeável,Produto,,RL,,Internamento,Sim,1,Não,,1,
+Esponja com Digliconato de Clorexidina,Produto,,UN,,Internamento,Sim,20,Não,,1,
+Fenergan,Produto,,AMP,,Internamento,Sim,70,Sim,01/09/26,1,
+Fenobarbital Sódico,Produto,,AMP,,Internamento,Sim,18,Sim,01/11/26,2,ampolas de 2mL
+Fentanil,Produto,,FR,,Internamento,Sim,13,Sim,01/10/27,2,2 fechados + 1 aberto
+Ferrodex,Produto,,FR,,Internamento,Sim,1,Sim,01/05/28,1,aberto
+Fita Adesiva Cirúrgica,Produto,,UN,,Internamento,Sim,1,Sim,01/03/28,1,
+Fita Crepe,Produto,,RL,,Internamento,Sim,1,Não,,1,
+Fixador para Cânula de Traqueostomia Adulto,Produto,,UN,,Internamento,Sim,24,Sim,01/12/25,1,vencido
+Flaconete de Cloreto de Potássio,Produto,,UN,,Internamento,Sim,9,Sim,01/04/26,4,vencido
+Flaconete de Cloreto de Potássio 19%,Produto,,UN,,Internamento,Sim,60,Não,,1,"vencidos em abril, ANO NÃO INFORMADO - não entra no cálculo de validade mais antiga, revisar manualmente"
+"Flaconete de Cloreto de Sódio 0,9%",Produto,,UN,,Internamento,Sim,127,Sim,01/11/25,5,vencido | vencido; corrigido de 'Flaronete'
+Flaconete de Glicose,Produto,,UN,,Internamento,Sim,1,Sim,01/01/27,1,
+Flaconete de Sucralfato (Sucrafilm),Produto,,UN,,Internamento,Sim,1,Sim,01/09/25,1,"vencida; nome comercial 'Sucrafilm', confirmar princípio ativo"
+Furanil,Produto,,UN,,Internamento,Sim,1,Sim,01/01/27,1,
+Ganadol,Produto,,UN,,Internamento,Sim,1,Sim,01/11/25,1,vencida; aberta
+Gladine,Produto,,FR,,Internamento,Sim,1,Sim,01/08/27,1,fechado
+Glicose Flaconete,Produto,,UN,,Internamento,Sim,150,Sim,01/01/27,1,
+Iodopovidona 10% 1L,Produto,,FR,,Internamento,Sim,1,Sim,01/08/27,1,aberto; corrigido de 'Iodopolvedina'
+Izoot B12,Produto,,FR,,Internamento,Sim,1,Sim,01/12/26,1,
+Ketojet,Produto,,UN,,Internamento,Sim,1,Sim,01/01/25,1,vencido
+Kit de Insulina,Produto,,KIT,,Internamento,Sim,2,Não,,1,
+Kollagenase,Produto,,UN,,Internamento,Sim,1,Não,,1,"vencida (data exata não informada); aberta, quase no fim"
+Kruuse Hydrogel,Produto,,CX,,Internamento,Sim,3,Sim,01/08/25,1,vencida; 10 unidades por caixa
+Labcaina (pomada lidocaína),Produto,,UN,,Internamento,Sim,1,Sim,01/10/25,1,vencida
+Lidocaína Pomada,Produto,,UN,,Internamento,Sim,1,Não,,1,"vencida (data exata não informada); aberta; possível duplicata de 'Labcaina', confirmar"
+Marovet,Produto,,UN,,Internamento,Sim,1,Sim,01/07/27,1,
+Meloxicam,Produto,,FR,,Internamento,Sim,1,Sim,01/07/27,1,"aberto; corrigido de 'eloxicam', confirmar"
+Mercepton Injetável,Produto,,FR,,Internamento,Sim,1,Sim,01/03/27,1,
+Metadona,Produto,,AMP,,Internamento,Sim,18,Sim,01/01/28,2,
+Metilprednisolona,Produto,,UN,,Internamento,Sim,1,Sim,01/06/27,1,"possível mesmo princípio ativo do Predimedrol - marcas/nomes distintos, NÃO mesclado automaticamente, revisar"
+Metronidazol Solução 100ml,Produto,,UN,,Internamento,Sim,12,Sim,01/10/26,2,
+Monovin K,Produto,,FR,,Internamento,Sim,1,Sim,01/02/25,1,vencido
+Morfina,Produto,,AMP,,Internamento,Sim,26,Sim,01/12/25,3,vencida | vencido
+Máscara Descartável,Produto,,UN,,Internamento,Sim,279,Não,,1,
+Máscara de Inalação,Produto,,UN,,Internamento,Sim,1,Não,,1,
+Norepinefrina 4ml,Produto,,AMP,,Internamento,Sim,37,Sim,01/11/26,1,
+Ondansetrona,Produto,,AMP,,Internamento,Sim,2,Sim,01/08/26,1,corrigido de 'ondanzentrona'
+Ornitil,Produto,,FR,,Internamento,Sim,1,Sim,01/08/25,1,vencido; aberto
+Panalog,Produto,,UN,,Internamento,Sim,1,Não,,1,vencida (data exata não informada); aberta
+Pentakel,Produto,,FR,,Internamento,Sim,3,Sim,01/01/27,2,
+Periovet,Produto,,UN,,Internamento,Sim,1,Sim,01/02/26,1,vencido
+Periovet Spray,Produto,,UN,,Internamento,Sim,2,Sim,01/01/26,2,
+Predimedrol,Produto,,FR,,Internamento,Sim,2,Sim,01/06/27,2,aberto; mesclado com registro do ambiente 1 (linha 34)
+Protetor de Calcanhar,Produto,,UN,,Internamento,Sim,2,Não,,1,
+Pó Hemostático,Produto,,UN,,Internamento,Sim,2,Sim,01/01/23,2,"vencido | vencido, mês não informado"
+Queimalive,Produto,,UN,,Internamento,Sim,1,Não,,1,vencida (data exata não informada); aberta
+Rifamicina,Produto,,UN,,Internamento,Sim,2,Sim,01/01/25,2,"vencida, mês não informado"
+Ringer Lactato 250ml,Produto,,UN,,Internamento,Sim,46,Sim,01/10/27,3,"validade dividida entre out/2027 e nov/2027, split não informado - usada a mais antiga (PEPS)"
+Ringer Lactato 500ml,Produto,,UN,,Internamento,Sim,17,Sim,01/10/27,3,
+Rolo de Algodão,Produto,,UN,,Internamento,Sim,1,Não,,1,
+Saco Hospitalar Branco 100L,Produto,,UN,,Internamento,Sim,130,Não,,1,
+Saco Hospitalar Branco 50L,Produto,,UN,,Internamento,Sim,100,Não,,1,
+Santiazepam,Produto,,AMP,,Internamento,Sim,37,Sim,01/11/25,1,"vencido; nome não confirmado, possível typo - NÃO mesclado com Diazepam por segurança, revisar"
+Soro Fisiológico 100ml,Produto,,UN,,Internamento,Sim,2,Sim,01/01/28,1,
+Soro Fisiológico 250ml,Produto,,UN,,Internamento,Sim,32,Sim,01/06/28,2,
+Soro com Metronidazol 100ml,Produto,,UN,,Internamento,Sim,7,Sim,01/05/26,5,aberta | vencido | vencido; aberta | vencido; unidade aberta
+Sorosolve 125ml,Produto,,UN,,Internamento,Sim,1,Sim,01/01/27,1,quase no fim (uso parcial)
+Spray de Óleos Essenciais,Produto,,UN,,Internamento,Sim,3,Sim,01/01/25,1,"vencido, ano exato não informado"
+Sulfato de Gentamicina,Produto,,UN,,Internamento,Sim,98,Sim,01/08/25,3,vencida
+Tapete Higiênico (fechado),Produto,,PCT,,Internamento,Sim,7,Não,,1,"+ 1 caixa grande não quantificada, requer contagem manual"
+Tapete Higiênico Avulso,Produto,,UN,,Internamento,Sim,60,Não,,2,
+Tapete Higiênico Lavável,Produto,,UN,,Internamento,Sim,1,Não,,1,"produto reutilizável, SKU distinto do descartável"
+Touca Higiênica Rosa,Produto,,UN,,Internamento,Sim,300,Não,,1,
+Tramadol (Cloridrato de Tramadol),Produto,,AMP,,Internamento,Sim,37,Sim,01/07/27,2,mesmo item; nome genérico mantido entre parênteses a pedido do usuário
+Trissulfin,Produto,,UN,,Internamento,Sim,1,Sim,01/05/28,1,
+Trissulfin Injetável,Produto,,FR,,Internamento,Sim,1,Sim,01/05/28,1,
+Umidificador,Produto,,UN,,Internamento,Sim,4,Não,,1,
+Ursodesoxicólico Manipulado (biscoito),Produto,,UN,,Internamento,Sim,33,Sim,01/01/24,1,"vencido, mês não informado; forma farmacêutica: biscoito mastigável"
+Utensílios para Inalação,Produto,,UN,,Internamento,Não,0,Não,,1,QUANTIDADE NÃO INFORMADA ('variados') - requer contagem manual antes do cadastro
+Vincristina,Produto,,UN,,Internamento,Sim,3,Sim,01/08/26,1,2 frascos abertos + 1 fechado; segunda validade informada (mai/2027) não associada a lote específico - usada a mais antiga (PEPS)
+Vitamina do Complexo B,Produto,,AMP,,Internamento,Sim,104,Sim,01/12/27,3,6 abertas + 1 fechada
+Zelotril,Produto,,FR,,Internamento,Sim,2,Sim,01/02/27,2,aberto
+Água Oxigenada 10 Volumes,Produto,,FR,,Internamento,Sim,3,Sim,01/03/28,2,aberto
+Água de Injeção (ampola),Produto,,UN,,Internamento,Sim,112,Não,,2,"mantido separado dos lotes em flaconete/unidade, a pedido do usuário"
+Água de Injeção (flaconete/unidade),Produto,,UN,,Internamento,Sim,12,Sim,01/12/24,3,confirmado pelo usuário: flaconete e unidade são o mesmo item; mantido separado do lote em ampola
+Álcool Etílico 70% 1L,Produto,,UN,,Internamento,Sim,10,Não,,1,unidade de venda real: garrafa
+Óleo Cicatrizante de Girassol,Produto,,FR,,Internamento,Sim,1,Sim,01/03/24,1,vencido
+Agulha Hipodérmica Amarela,Produto,,UN,,Procedimentos,Sim,2,Não,,1,
+Agulha Hipodérmica Azul,Produto,,UN,,Procedimentos,Sim,45,Não,,2,
+Agulha Hipodérmica Cinza,Produto,,UN,,Procedimentos,Sim,1579,Não,,4,
+Agulha Hipodérmica Laranja,Produto,,UN,,Procedimentos,Sim,7,Não,,1,
+Agulha Hipodérmica Laranja (insulina),Produto,,UN,,Procedimentos,Sim,79,Não,,1,verificar se é o mesmo item de 'Agulha Hipodérmica Laranja' genérica
+Agulha Hipodérmica Marrom,Produto,,UN,,Procedimentos,Sim,93,Não,,2,
+Agulha Hipodérmica Marrom (insulina),Produto,,UN,,Procedimentos,Sim,164,Não,,1,verificar se é o mesmo item de 'Agulha Hipodérmica Marrom' genérica
+Agulha Hipodérmica Marrom Grande,Produto,,UN,,Procedimentos,Sim,71,Não,,1,
+Agulha Hipodérmica Rosa,Produto,,UN,,Procedimentos,Sim,867,Não,,3,
+Agulha Hipodérmica Roxa,Produto,,UN,,Procedimentos,Sim,324,Não,,3,
+Agulha Hipodérmica Verde,Produto,,UN,,Procedimentos,Sim,281,Não,,4,
+Cateter Amarelo,Produto,,UN,,Procedimentos,Sim,44,Sim,01/05/28,3,
+Cateter Azul,Produto,,UN,,Procedimentos,Sim,16,Sim,01/02/25,3,vencido
+Cateter Cinza,Produto,,UN,,Procedimentos,Sim,4,Não,,1,
+"Cateter Intravenoso 16G x1,16 (cinza)",Produto,,UN,,Procedimentos,Sim,48,Não,,1,
+"Cateter Intravenoso 20G x1,4 (rosa)",Produto,,UN,,Procedimentos,Sim,100,Não,,1,
+Cateter Intravenoso 22G x1 (azul),Produto,,UN,,Procedimentos,Sim,100,Não,,1,
+"Cateter Intravenoso 24G x3,4 (amarelo)",Produto,,UN,,Procedimentos,Sim,100,Não,,1,
+"Cateter Intravenoso 30G x1,3 (verde)",Produto,,UN,,Procedimentos,Sim,5,Não,,1,
+Cateter Rosa,Produto,,UN,,Procedimentos,Sim,45,Sim,01/06/25,3,vencido
+Cateter Verde,Produto,,UN,,Procedimentos,Sim,3,Não,,1,
+Cateter de Oxigênio,Produto,,UN,,Procedimentos,Sim,1,Sim,01/09/22,1,vencido
+Equipo Macrogota,Produto,,UN,,Procedimentos,Sim,254,Sim,01/01/21,13,
+Lancetas,Produto,,UN,,Procedimentos,Sim,160,Sim,01/12/25,1,
+Microchip,Produto,,UN,,Procedimentos,Sim,29,Sim,01/10/29,1,
+Plug Adaptador,Produto,,UN,,Procedimentos,Sim,410,Sim,01/05/30,3,
+Scalp 19G,Produto,,UN,,Procedimentos,Sim,118,Sim,01/07/26,4,
+Scalp 21G,Produto,,UN,,Procedimentos,Sim,57,Não,,2,
+Scalp 25G,Produto,,UN,,Procedimentos,Sim,1,Não,,1,
+Seringa com Adaptador 10ml,Produto,,UN,,Procedimentos,Sim,1,Não,,1,
+Seringa com Adaptador 1ml,Produto,,UN,,Procedimentos,Sim,1,Não,,1,
+Seringa com Adaptador 3ml,Produto,,UN,,Procedimentos,Sim,1,Não,,1,
+Seringa com Adaptador 5ml,Produto,,UN,,Procedimentos,Sim,12,Não,,1,
+Seringa de 10ml sem Agulha,Produto,,UN,,Procedimentos,Sim,166,Não,,3,
+Seringa de 1ml Agulhada,Produto,,UN,,Procedimentos,Sim,24,Não,,1,
+Seringa de 20ml (tipo não especificado),Produto,,UN,,Procedimentos,Sim,4,Não,,1,"original não especifica com/sem agulha - assumido 'sem agulha' no merge final, confirmar"
+Seringa de 20ml sem Agulha,Produto,,UN,,Procedimentos,Sim,371,Não,,2,
+Seringa de 3ml Agulhada,Produto,,UN,,Procedimentos,Sim,1024,Não,,3,
+Seringa de 3ml sem Agulha,Produto,,UN,,Procedimentos,Sim,2,Não,,1,
+Seringa de 5ml Agulhada,Produto,,UN,,Procedimentos,Sim,511,Não,,2,
+Seringa de 5ml sem Agulha,Produto,,UN,,Procedimentos,Sim,105,Não,,3,
+Seringa de 60ml sem Agulha,Produto,,UN,,Procedimentos,Sim,85,Não,,2,
+"Seringa de Insulina 0,5ml",Produto,,UN,,Procedimentos,Sim,50,Não,,2,
+Seringa de Insulina 1ml,Produto,,UN,,Procedimentos,Sim,1116,Não,,2,
+Seringa de Insulina 1ml sem Agulha,Produto,,UN,,Procedimentos,Sim,131,Não,,2,
+"Sonda Gástrica N°1 sem Cuff (2,5mm)",Produto,,UN,,Procedimentos,Sim,2,Não,,1,
+Sonda Gástrica N°15 sem Cuff (7mm),Produto,,UN,,Procedimentos,Sim,5,Não,,1,
+"Sonda Gástrica N°20 com Cuff (6,5mm)",Produto,,UN,,Procedimentos,Sim,7,Não,,1,
+Sonda Gástrica N°3 sem Cuff (3mm),Produto,,UN,,Procedimentos,Sim,2,Não,,1,
+"Sonda Gástrica com Cuff (3,5mm)",Produto,,UN,,Procedimentos,Sim,2,Não,,1,
+"Sonda Gástrica com Cuff (4,5mm)",Produto,,UN,,Procedimentos,Sim,4,Não,,1,
+Sonda Gástrica com Cuff (4mm),Produto,,UN,,Procedimentos,Sim,1,Não,,1,
+"Sonda Gástrica com Cuff (7,5mm)",Produto,,UN,,Procedimentos,Sim,2,Não,,1,
+"Sonda Gástrica com Cuff (8,5mm)",Produto,,UN,,Procedimentos,Sim,11,Não,,1,
+Sonda Gástrica com Cuff (8mm),Produto,,UN,,Procedimentos,Sim,5,Não,,1,
+"Sonda Gástrica sem Cuff (3,5mm)",Produto,,UN,,Procedimentos,Sim,3,Não,,1,
+"Sonda Gástrica sem Cuff (4,5mm)",Produto,,UN,,Procedimentos,Sim,1,Não,,1,
+Sonda Gástrica sem Cuff (4mm),Produto,,UN,,Procedimentos,Sim,4,Não,,1,
+"Sonda Gástrica sem Cuff (5,5mm)",Produto,,UN,,Procedimentos,Sim,6,Não,,1,
+Sonda Gástrica sem Cuff (6mm),Produto,,UN,,Procedimentos,Sim,5,Não,,1,
+Sonda Nasogástrica Longa Tamanho 4,Produto,,UN,,Procedimentos,Sim,7,Sim,01/07/27,1,
+Sonda Nasogástrica Longa Tamanho 8,Produto,,UN,,Procedimentos,Sim,4,Sim,01/07/27,1,
+Sonda Uretral (tamanho não especificado),Produto,,UN,,Procedimentos,Sim,17,Sim,01/05/24,1,vencida
+Sonda Uretral Tamanho 10,Produto,,UN,,Procedimentos,Sim,51,Sim,01/01/24,4,vencida
+Sonda Uretral Tamanho 12,Produto,,UN,,Procedimentos,Sim,11,Sim,01/04/28,3,
+Sonda Uretral Tamanho 14,Produto,,UN,,Procedimentos,Sim,23,Sim,01/12/27,1,
+Sonda Uretral Tamanho 3,Produto,,UN,,Procedimentos,Sim,3,Sim,01/12/26,1,
+Sonda Uretral Tamanho 4,Produto,,UN,,Procedimentos,Sim,18,Sim,01/04/28,1,
+Sonda Uretral Tamanho 6,Produto,,UN,,Procedimentos,Sim,19,Sim,01/09/28,2,
+Sonda Uretral Tamanho 8,Produto,,UN,,Procedimentos,Sim,39,Sim,01/10/22,5,vencida
+Sonda Uretral com Mandril,Produto,,UN,,Procedimentos,Sim,4,Sim,01/06/28,1,
+Sonda de Aspiração Traqueal Tamanho 12,Produto,,UN,,Procedimentos,Sim,135,Sim,01/08/27,4,sem data de validade informada
+Sonda de Aspiração Traqueal Tamanho 4,Produto,,UN,,Procedimentos,Sim,1,Não,,1,
+Torneirinha de 3 Vias,Produto,,UN,,Procedimentos,Sim,5,Não,,2,
+Vacina Antirrábica,Produto,,UN,,Vacinas,Sim,2,Sim,01/05/27,1,
+Vacina V10,Produto,,UN,,Vacinas,Sim,9,Sim,01/05/27,1,
+Vacina V4,Produto,,UN,,Vacinas,Sim,4,Sim,01/12/26,1,
+Vacina V8,Produto,,UN,,Vacinas,Sim,1,Sim,01/03/27,1,
