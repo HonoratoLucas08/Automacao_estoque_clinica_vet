@@ -19,5 +19,3 @@ time.sleep(5)
 
 # # testando a função esperar para verificar se a imagem "informacoes_gerais_produto" aparece na tela - Teste OK
 # print(esperar("informacoes_gerais_produto"))
-
-

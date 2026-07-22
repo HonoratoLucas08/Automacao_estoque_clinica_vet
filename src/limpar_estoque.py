@@ -43,6 +43,8 @@ try:
         if esperar("titulo_tabela_produtos", timeout=6) is None:
             log("A lista de produtos não voltou.", nivel="error")
             break
+        time.sleep(2)  # Pequena pausa antes de processar o próximo item
+        
 except Exception as e:
     log(f"Ocorreu um erro inesperado: {e}", nivel="error")
     raise
