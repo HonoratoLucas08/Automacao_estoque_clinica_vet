@@ -4,7 +4,7 @@ import logging
 import os
 
 pyautogui.FAILSAFE = True
-pyautogui.PAUSE = 0.2
+pyautogui.PAUSE = 0.4
 
 from config import (
     PASTA_IMAGENS,
