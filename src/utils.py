@@ -54,6 +54,25 @@ def esperar(elemento, timeout=TIMEOUT_PADRAO, confianca=CONFIANCA_PADRAO):
     return None
 
 
+def esperar_primeiro(elementos, timeout=TIMEOUT_PADRAO, confianca=CONFIANCA_PADRAO):
+    tempo_inicio = time.time()
+
+    while time.time() - tempo_inicio < timeout:
+        for elemento in elementos:
+            try:
+                pos = pyautogui.locateOnScreen(
+                    _caminho(elemento),
+                    confidence=confianca
+                )
+                if pos is not None:
+                    return elemento
+            except pyautogui.ImageNotFoundException:
+                continue
+        time.sleep(INTERVALO_POLL)
+
+    return None
+
+
 def esperar_sumir(elemento, timeout=TIMEOUT_PADRAO, confianca=CONFIANCA_PADRAO):
     tempo_inicio = time.time()
     while time.time() - tempo_inicio < timeout:
